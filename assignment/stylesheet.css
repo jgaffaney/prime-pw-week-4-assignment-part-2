@@ -1,0 +1,28 @@
+header {
+  background-color: #1f6646;
+}
+
+img {
+  padding-left: 10px;
+
+}
+
+.info  {
+  background-color: #820419;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid #000000;
+}
+
+.info h2 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.info h3 {
+  color: #3d22bf;
+  background-color: #136636;
+  text-align: center;
+}
